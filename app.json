@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/master00016/File-Sharing-Bot",
+  "repository": "https://github.com/master00016/",
   "logo": "https://telegra.ph/PLANETEXPRESSMARVEL-05-11",
   "env": {
     "TG_BOT_TOKEN": {
